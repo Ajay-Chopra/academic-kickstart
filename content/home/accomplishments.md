@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Relevant Elective Coursework"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,52 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  organization = "CMSC 23320"
+  organization_url = ""
+  title = "Foundations of Computer Networks"
+  url = "https://uchicago-cs.github.io/cmsc23320/"
+  certificate_url = ""
+  date_start = "2020-01-01"
+  date_end = "2020-03-20"
+  description = """
+  """
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
+  organization = "CMSC 23310"
+  organization_url = ""
+  title = "Advanced Distributed Systems"
+  url = "http://uchicago-cs.github.io/cmsc23310/"
+  certificate_url = ""
+  date_start = "2020-04-02"
+  date_end = "2020-06-15"
+  description = """
+  """
+
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "CMSC 25300"
+  organization_url = ""
+  title = "Mathematical Foundations of Machine Learning"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = "2019-10-02"
+  date_end = "2019-12-20"
+  description = """
+  """
+
+[[item]]
+  organization = "MATH 20250"
+  title = "Abtract Linear Algebra"
+  date_start = "2018-10-01"
+  date_end = "2018-12-25"
+
+[[item]]
+  organization = "MATH 20300-20500"
+  title = "Analysis in Rn I-III"
+  date_start = "2018-10-01"
+  date_end = "2019-06-12"
+
+
+
+
 
 +++

@@ -17,28 +17,57 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Software Engineer Intern"
+  company = "Capital One Financial Corporation"
+  company_url = "https://www.capitalone.com/"
+  location = "McLean, Virginia"
+  date_start = "2020-06-13"
+  date_end = ""
+  description = """
+  Job Description:
+
+  * Developed and deployed the OneAlert monitoring system, responsible for adjusting alert thresholds on C1 servers
+  * Dramatically improved efficiency by reducing average time to adjust thresholds from three days to thirty minutes
+  * Engaged in full stack web development using frameworks such as React, Node.js/Express.js, AWS S3/SNS and Jenkins
+    """
+[[experience]]
+  title = "AI Development Intern"
+  company = "VIA Technologies, Inc."
+  company_url = "https://www.viatech.com/en/"
+  location = "New Taipei City, Taiwan"
+  date_start = "2019-06-20"
+  date_end = "2019-09-10"
+  description = """
+  Job Description:
+
+  * Developed and implemented cutting-edge, NLP, text-modelling and AI applications to generate new market intelligence
+  * Responsibilities included network architecture design, implementation, training and hyperparameter optimization
+  * Networks implemented in Python with heavy use of TensorFlow and utilization of GPUs
+    """
+
+[[experience]]
+  title = "Data Analytics Research Intern"
+  company = "Becker Friedman Institute of Economics"
+  company_url = "https://bfi.uchicago.edu/"
+  location = "Chicago, Illinois"
+  date_start = "2018-06-20"
+  date_end = "2018-09-10"
+  description = """
+  Job Description:
+  * Conducted data analysis on Professor John List’s research team studying the effects of scaling and loss aversion
+  * Extensively utilized R and Stata in performing web scraping and data analysis tasks, including utilization of machine learning algorithms
+
+
+  """
+
+
+
+
+
+
+
+
 
 +++
