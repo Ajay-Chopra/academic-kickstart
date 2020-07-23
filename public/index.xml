@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome!</title>
+    <link>https://Ajay-Chopra.github.io/</link>
+      <atom:link href="https://Ajay-Chopra.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Welcome!</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Ajay-Chopra.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Welcome!</title>
+      <link>https://Ajay-Chopra.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Analyzing The Transfer Market of the English Premier League</title>
+      <link>https://Ajay-Chopra.github.io/project/epl/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Ajay-Chopra.github.io/project/epl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>https://Ajay-Chopra.github.io/project/computer-vision/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Ajay-Chopra.github.io/project/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
