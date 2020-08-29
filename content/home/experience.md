@@ -42,9 +42,9 @@ date_format = "Jan 2006"
   description = """
   Job Description:
 
-  * Developed and implemented cutting-edge, NLP, text-modelling and AI applications to generate new market intelligence
+  * Developed and implemented computer vision applications for VIA's ADAS and DMS driver assistance systems
   * Responsibilities included network architecture design, implementation, training and hyperparameter optimization
-  * Networks implemented in Python with heavy use of TensorFlow and utilization of GPUs
+  * Networks implemented in Python and C++ with heavy use of TensorFlow and utilization of GPUs
     """
 
 [[experience]]
